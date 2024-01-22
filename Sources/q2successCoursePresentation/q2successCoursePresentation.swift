@@ -1,3 +1,3 @@
 struct q2successCoursePresentation {
-    var text = "Hello, World!"
+    var text = "q2success Course Presentation"
 }

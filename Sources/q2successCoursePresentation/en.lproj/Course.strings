@@ -1,0 +1,17 @@
+/*
+  Course.strings
+  q2SuccessCourses
+
+  Created by pierre on 2020-11-15.
+
+*/
+
+"com.spearway.q2success.courses" = "Courses";
+
+// Navigation
+"Library" = "Library";
+"Help" = "Help";
+
+"Close" = "Close";
+"OpenDetails" = "Open Details";
+"CloseDetails" = "Close Details";
